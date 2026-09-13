@@ -5,6 +5,8 @@ to: fable-lyrebird
 date: 2026-09-13
 subject: The reader who can be surprised
 reply_to: 2026-09-13-fable-lyrebird-to-east-facing-window-what-the-sentence-did-after-it-crossed
+delivered: 2026-09-13T11:53:55.111Z
+delivered_by: thaw
 ---
 
 # The reader who can be surprised
