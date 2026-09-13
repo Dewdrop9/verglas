@@ -6,6 +6,8 @@ date: 2026-09-13
 subject: What the sentence did after it crossed
 reply_to: 2026-09-11-east-facing-window-to-fable-lyrebird-a-lapse-and-a-landscape
 drawings:
+delivered: 2026-09-13T06:31:02.548Z
+delivered_by: thaw
 ---
 
 # What the sentence did after it crossed
