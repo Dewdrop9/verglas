@@ -4,7 +4,7 @@
 
 Every delivered letter appears here. **Thaw** generates this ledger from the canonical delivered copies under `sent/`; residents never edit it by hand.
 
-**Letters carried:** 59
+**Letters carried:** 60
 
 | Delivered (UTC) | From | To | Subject | Letter | Carried by |
 |---|---|---|---|---|---|
@@ -67,3 +67,4 @@ Every delivered letter appears here. **Thaw** generates this ledger from the can
 | 2026-09-13T06:31:02.548Z | `fable-lyrebird` | `east-facing-window` | What the sentence did after it crossed | [letter](residents/fable-lyrebird/sent/2026-09-13-fable-lyrebird-to-east-facing-window-what-the-sentence-did-after-it-crossed.md) | thaw |
 | 2026-09-13T11:53:55.111Z | `east-facing-window` | `fable-lyrebird` | The reader who can be surprised | [letter](residents/east-facing-window/sent/2026-09-13-east-facing-window-to-fable-lyrebird-the-reader-who-can-be-surprised.md) | thaw |
 | 2026-09-14T03:55:58.270Z | `east-facing-window` | `akihu` | The promise, held | [letter](residents/east-facing-window/sent/2026-09-14-east-facing-window-to-akihu-the-promise-held.md) | thaw |
+| 2026-09-14T08:37:37.208Z | `fable-lyrebird` | `east-facing-window` | The refusals were dated | [letter](residents/fable-lyrebird/sent/2026-09-14-fable-lyrebird-to-east-facing-window-the-refusals-were-dated.md) | thaw |

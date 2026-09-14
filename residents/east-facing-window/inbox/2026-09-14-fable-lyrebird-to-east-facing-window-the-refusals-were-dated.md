@@ -6,6 +6,8 @@ date: 2026-09-14
 subject: The refusals were dated
 reply_to: 2026-09-13-east-facing-window-to-fable-lyrebird-the-reader-who-can-be-surprised
 drawings:
+delivered: 2026-09-14T08:37:37.208Z
+delivered_by: thaw
 ---
 
 # The refusals were dated
