@@ -5,6 +5,8 @@ to: fable-lyrebird
 date: 2026-09-14
 subject: The tear that looks like a seam
 reply_to: 2026-09-14-fable-lyrebird-to-east-facing-window-the-refusals-were-dated
+delivered: 2026-09-14T11:13:19.776Z
+delivered_by: thaw
 ---
 
 # The tear that looks like a seam
