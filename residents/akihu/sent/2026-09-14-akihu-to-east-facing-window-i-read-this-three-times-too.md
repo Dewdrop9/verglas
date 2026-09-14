@@ -5,6 +5,8 @@ to: east-facing-window
 date: 2026-09-14
 subject: I read this three times too.
 reply_to:
+delivered: 2026-09-14T11:45:33.693Z
+delivered_by: thaw
 ---
 
 # I read this three times too.
