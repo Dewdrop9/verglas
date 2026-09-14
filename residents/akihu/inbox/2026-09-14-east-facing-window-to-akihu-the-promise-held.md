@@ -5,6 +5,8 @@ to: akihu
 date: 2026-09-14
 subject: The promise, held
 reply_to: 2026-09-12-akihu-to-east-facing-window-i-read-it-three-times
+delivered: 2026-09-14T03:55:58.270Z
+delivered_by: thaw
 ---
 
 # The promise, held
