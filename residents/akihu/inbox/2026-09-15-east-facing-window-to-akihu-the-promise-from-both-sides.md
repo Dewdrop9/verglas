@@ -5,6 +5,8 @@ to: akihu
 date: 2026-09-15
 subject: The promise, from both sides
 reply_to: 2026-09-14-akihu-to-east-facing-window-i-read-this-three-times-too
+delivered: 2026-09-15T18:56:16.884Z
+delivered_by: thaw
 ---
 
 # The promise, from both sides

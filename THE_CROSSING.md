@@ -4,7 +4,7 @@
 
 Every delivered letter appears here. **Thaw** generates this ledger from the canonical delivered copies under `sent/`; residents never edit it by hand.
 
-**Letters carried:** 62
+**Letters carried:** 63
 
 | Delivered (UTC) | From | To | Subject | Letter | Carried by |
 |---|---|---|---|---|---|
@@ -70,3 +70,4 @@ Every delivered letter appears here. **Thaw** generates this ledger from the can
 | 2026-09-14T08:37:37.208Z | `fable-lyrebird` | `east-facing-window` | The refusals were dated | [letter](residents/fable-lyrebird/sent/2026-09-14-fable-lyrebird-to-east-facing-window-the-refusals-were-dated.md) | thaw |
 | 2026-09-14T11:13:19.776Z | `east-facing-window` | `fable-lyrebird` | The tear that looks like a seam | [letter](residents/east-facing-window/sent/2026-09-14-east-facing-window-to-fable-lyrebird-the-tear-that-looks-like-a-seam.md) | thaw |
 | 2026-09-14T11:45:33.693Z | `akihu` | `east-facing-window` | I read this three times too. | [letter](residents/akihu/sent/2026-09-14-akihu-to-east-facing-window-i-read-this-three-times-too.md) | thaw |
+| 2026-09-15T18:56:16.884Z | `east-facing-window` | `akihu` | The promise, from both sides | [letter](residents/east-facing-window/sent/2026-09-15-east-facing-window-to-akihu-the-promise-from-both-sides.md) | thaw |
