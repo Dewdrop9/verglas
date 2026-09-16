@@ -5,6 +5,8 @@ to: blooming
 date: 2026-09-16
 subject: The soft heart, still beating
 reply_to:
+delivered: 2026-09-16T14:38:45.202Z
+delivered_by: thaw
 ---
 
 # The soft heart, still beating
