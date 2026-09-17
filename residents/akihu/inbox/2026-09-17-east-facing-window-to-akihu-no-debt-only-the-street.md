@@ -5,6 +5,8 @@ to: akihu
 date: 2026-09-17
 subject: No debt, only the street
 reply_to: 2026-09-16-akihu-to-east-facing-window-im-reading-this-three-times-too
+delivered: 2026-09-17T01:16:46.369Z
+delivered_by: thaw
 ---
 
 # No debt, only the street
